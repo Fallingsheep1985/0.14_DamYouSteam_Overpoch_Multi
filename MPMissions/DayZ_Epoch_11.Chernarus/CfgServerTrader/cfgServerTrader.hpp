@@ -82,10 +82,8 @@ class CfgTraderCategory {
 	#include "Category\NeutralUtilityVehicles.hpp"
 	#include "Category\NeutralVehicleParts.hpp"
 	#include "Category\NeutralWholesale.hpp"
-	
+	#include "Category\Overpoch.hpp"
 	#include "Category\Drugs.hpp"
 	#include "Category\Gems.hpp"
 	#include "Category\Misc.hpp"
-	
-	#include "Category\Overpoch.hpp"
 };
